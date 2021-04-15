@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Covid-19</title>
+  <meta charset="UTF-8">
+<style>
+body {
+  background-color: white;
+}
+</style>
+</head>
+
+</body>
+<img src="corona.jpg" width="100%">
+<br>
+<head>
+<style>
+.btn-group .button {
+  background-color: #4CAF50; /* Green */
+  border: 1px solid green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+
+.btn-group .button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
+</style>
+</head>
+<head>
+<style> 
+#example1 {
+  background-image: carona bg.jpg;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="btn-group">
+  <button onclick="window.location.href = 'https://en.wikipedia.org/wiki/Coronavirus_disease_2019'"; class="button">About</button>
+ <button onclick="window.location.href = 'http://climateandhealthalliance.org/covid-19-useful-links/'"; class="button">Important Links</button>
+  <button onclick="window.location.href = 'https://www.mohfw.gov.in/'"; class="button">Corona in India</button>
+  <button onclick="window.location.href ='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/'"; class="button">Corona in World</button>
+  <button onclick="window.location.href ='https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf'"; class="button" >Important Contact Number</button>
+</div>
+</body>
+  <br>
+<br>
+
+<p>Translate this page:</p>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<p>You can translate the content of this page by selecting a language in the select box.</p>
+
+</body>
+</html>
+
+
+
+<h1 style="font-size:300%;"> <h1 style="text-align:center;">Covid 19</h1>
+
+<p style="font-family : Montserrat;">
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2<br>
+(SARS-CoV-2). It was first identified in December 2019 in Wuhan, China, and has since spread globally, resulting in an<br>
+ ongoing pandemic. As of 26 May 2020, more than 5.49 million cases have been reported across 188 countries and<br>
+territories, resulting in more than 346,000 deaths. More than 2.23 million people have recovered.<br>
+
+<h2>Etymology</h2>
+The name "coronavirus" is derived from Latin corona, meaning "crown" or "wreath", itself a borrowing from Greek κορώνη korṓnē, "garland, wreath".<br>
+ The name was coined by June Almeida and David Tyrrell who first observed and studied human coronaviruses.<br> 
+The word was first used in print in 1968 by an informal group of virologists in the journal Nature to designate the new family of viruses.
+ The name refers to the characteristic appearance of virions (the infective form of the virus) by electron microscopy, which have a fringe of large, <br>
+bulbous surface projections creating an image reminiscent of the solar corona or halo.<br>
+ This morphology is created by the viral spike peplomers, which are proteins on the surface of the virus.<br>
+
+<h2>History</h2><br>
+Coronaviruses were first discovered in the 1930s when an acute respiratory infection of domesticated chickens was shown to be caused by<br>
+ infectious bronchitis virus (IBV).[14] Arthur Schalk and M.C. Hawn described in 1931 a new respiratory infection of chickens in North Dakota.<br>
+The infection of new-born chicks was characterized by gasping and listlessness. The chicks' mortality rate was 40–90%.<br>
+ Fred Beaudetteand Charles Hudson six years later successfully isolated and cultivated the infectious bronchitis virus which caused the disease.<br>
+In the 1940s, two more animal coronaviruses, mouse hepatitis virus (MHV) and transmissible gastroenteritis virus (TGEV), were isolated.<br>
+It was not realized at the time that these three different viruses were related.<br><br>
+
+
+<h2>Causes</h2>
+Infection with the new coronavirus (severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2) causes coronavirus disease 2019 (COVID-19).
+
+The virus appears to spread easily among people, and more continues to be discovered over time about how it spreads. Data has shown that it spreads from person to person among those in close contact (within about 6 feet, or 2 meters). The virus spreads by respiratory droplets released when someone with the virus coughs, sneezes or talks. These droplets can be inhaled or land in the mouth or nose of a person nearby.
+
+It can also spread if a person touches a surface with the virus on it and then touches his or her mouth, nose or eyes, although this isn't considered to be a main way it spreads.
+<br>
+<h2>Risk factors</h2>
+Risk factors for COVID-19 appear to include:<br><br>
+
+Recent travel from or residence in an area with ongoing community spread of COVID-19 as determined by CDC or WHO<br>
+Close contact (within 6 feet, or 2 meters) with someone who has COVID-19 for more than 5 minutes or being coughed or sneezed on by an infected person<br>
+Complications<br>
+Although most people with COVID-19 have mild to moderate symptoms, the disease can cause severe medical complications and lead to death in some people. Older adults or people with existing chronic medical conditions are at greater risk of becoming seriously ill with COVID-19.
+<br>
+Complications can include:<br>
+
+Pneumonia and trouble breathing<br>
+Organ failure in several organs<br>
+Heart problems<br>
+A severe lung condition that causes a low amount of oxygen to go through your bloodstream to your organs (acute respiratory distress syndrome)<br>
+Blood clots<br>
+Acute kidney injury<br>
+Additional viral and bacterial infections<br>
+<h2>Prevention</h2><br>
+Although there is no vaccine available to prevent COVID-19, you can take steps to reduce your risk of infection. WHO and CDC recommend following these precautions for avoiding COVID-19:
+
+Avoid large events and mass gatherings.<br>
+Avoid close contact (within about 6 feet, or 2 meters) with anyone who is sick or has symptoms.<br>
+Stay home as much as possible and keep distance between yourself and others (within about 6 feet, or 2 meters), especially if you have a higher risk of serious illness.<br>
+ Keep in mind some people may have COVID-19 and spread it to others, even if they don't have symptoms or don't know they have COVID-19.<br>
+Wash your hands often with soap and water for at least 20 seconds, or use an alcohol-based hand sanitizer that contains at least 60% alcohol.<br>
+Cover your face with a cloth face mask in public spaces, such as the grocery store, where it's difficult to avoid close contact with others, especially if you're in an area with ongoing community spread.<br>
+ Only use nonmedical cloth masks — surgical masks and N95 respirators should be reserved for health care providers.<br>
+Cover your mouth and nose with your elbow or a tissue when you cough or sneeze. Throw away the used tissue. Wash your hands right away.<br>
+Avoid touching your eyes, nose and mouth.<br>
+Avoid sharing dishes, glasses, towels, bedding and other household items if you're sick.<br>
+Clean and disinfect high-touch surfaces, such as doorknobs, light switches, electronics and counters, daily.<br>
+Stay home from work, school and public areas if you're sick, unless you're going to get medical care. Avoid public transportation, taxis and ride-sharing if you're sick.<br>
+If you have a chronic medical condition and may have a higher risk of serious illness, check with your doctor about other ways to protect yourself.<br>
+
+<h2>Travel</h2>
+If you're planning to travel, first check the CDC and WHO websites for updates and advice.<br>
+ Also look for any health advisories that may be in place where you plan to travel.<br>
+ You may also want to talk with your doctor if you have health conditions that make you more susceptible to respiratory infections and complications.
+
+</p>
+<br>
+<br>
+<p>
+<h1>State wise corona cases</h1>
+<div id="piechart"></div>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+// Load google charts
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+
+// Draw the chart and set the chart values
+function drawChart() {
+  var data = google.visualization.arrayToDataTable([
+  ['Task', '145K'],
+  ['Gujarat', 14056],
+  ['Maharashtra', 50231],
+  ['Tamil Nadu', 16277],
+  ['Delhi', 13418],
+  ['Rajasthan', 7028],
+  ['Madhya Pradesh', 6665],
+  ['Uttar Pradesh', 6268],
+  ['West Bengal', 3667],
+  ['Andhra Pradesh', 2823],
+      ]);
+
+  // Optional; add a title and set the width and height of the chart
+  var options = {'title':'Study', 'width':550, 'height':400};
+
+  // Display the chart inside the <div> element with id="piechart"
+  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  chart.draw(data, options);
+}
+</script>
+
+</p>
+<h1> Help the Needy </h1>
+
+<a href="https://pmnrf.gov.in/en/online-donation">
+<img border="5" alt="Donate" src="download.jpg" width="700" height="400" class="center">
+</a><br><br>
+
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https://storage.googleapis.com/cloudprod-apiai/7590228e-210b-4c0b-8a96-bf40d2e99185_x.png"
+  intent="WELCOME"
+  chat-title="GCET"
+  agent-id="4bc9f1e6-2c13-420a-9689-c18569053839"
+  language-code="en"
+></df-messenger>
+</body>
+</html>
